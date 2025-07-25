@@ -32,7 +32,7 @@ In this task, you will clone the GitHub repository for the project to access the
     pip install -r requirements.txt
     ```
 
-     ![](../media/af28.png)    
+    ![](../media/af28.png)    
 
       >**Note:** Wait for the installation to complete. It might take some time.
 
@@ -66,7 +66,7 @@ In this task, you will set up and configure the necessary environment variables 
     - EVALUATION_MODEL="gpt-4o"
     - INTENT_MAPPING_MODEL="gpt-4o"
 
-         ![](../media/focus6.png)
+    ![](../media/focus6.png)
 
 1. Press **Ctrl+S** to save the file.
 
@@ -79,16 +79,3 @@ In this exercise, you have accomplished the following:
 - Task 2: Configure Environment Variables
 
 ### You have successfully finished the exercise. Click **Next** to continue to the next exercise.
-
-
-
-
-
-
-
-
-
-
-
-
-
